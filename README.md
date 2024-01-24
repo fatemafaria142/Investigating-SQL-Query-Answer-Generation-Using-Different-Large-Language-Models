@@ -1,5 +1,5 @@
 
-<h1>SQL Query Answer Generation Research</h1>
+<h1>SQL Query Answer Generation </h1>
 
 <p>
     <strong>Dataset:</strong> 
