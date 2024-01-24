@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SQL Query Answer Generation Research</title>
-</head>
-<body>
 
 <h1>SQL Query Answer Generation Research</h1>
 
@@ -38,16 +30,6 @@
     </ul>
 </p>
 
-<p>
-    <strong>Model Links:</strong>
-    <ul>
-        <li><a href="https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1">Mistral-7B-Instruct-v0.1 Model</a></li>
-        <li><a href="https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2">Mistral-7B-Instruct-v0.2 Model</a></li>
-        <li><a href="https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha">Starling-LM-7B-alpha Model</a></li>
-        <li><a href="https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0">TinyLlama Model</a></li>
-        <li><a href="https://huggingface.co/openchat/openchat-3.5-1210">OpenChat 3.5 1210 Model</a></li>
-    </ul>
-</p>
 
-</body>
-</html>
+
+
