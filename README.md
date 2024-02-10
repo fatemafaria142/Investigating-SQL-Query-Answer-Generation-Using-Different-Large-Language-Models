@@ -23,12 +23,12 @@
 <p>
     <strong>Model Descriptions:</strong>
     <ul>
+        <li><strong>Llama-2-7b-chat-hf:</strong> Llama 2 is a collection of pretrained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters. Llama-2-Chat are optimized for dialogue use cases. Llama 2 is an auto-regressive language model that uses an optimized transformer architecture. The tuned versions use supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF) to align to human preferences for helpfulness and safety.</li>
         <li><strong>Mistral-7B-Instruct-v0.1:</strong> Instruct fine-tuned version of Mistral-7B-v0.1 generative text model using conversation datasets.</li>
         <li><strong>Mistral-7B-Instruct-v0.2:</strong> Improved instruct fine-tuned version of Mistral-7B-Instruct-v0.1.</li>
         <li><strong>Starling-LM-7B-alpha:</strong> Trained by Reinforcement Learning from AI Feedback (RLAIF) using OpenChat 3.5 with reward model Starling-RM-7B-alpha.</li>
         <li><strong>TinyLlama:</strong> Compact 1.1B Llama model pre-trained on 3 trillion tokens.</li>
         <li><strong>OpenChat 3.5 1210:</strong> OpenChat model.</li>
-        
     </ul>
 </p>
 
