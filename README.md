@@ -11,6 +11,7 @@
 <p>
     <strong>Models Used:</strong>
     <ul>
+        <li><a href="https://huggingface.co/NousResearch/Llama-2-7b-chat-hf">Llama-2-7b-chat-hf</a></li>
         <li><a href="https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1">Mistral-7B-Instruct-v0.1</a></li>
         <li><a href="https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2">Mistral-7B-Instruct-v0.2</a></li>
         <li><a href="https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha">Starling-LM-7B-alpha</a></li>
@@ -27,6 +28,7 @@
         <li><strong>Starling-LM-7B-alpha:</strong> Trained by Reinforcement Learning from AI Feedback (RLAIF) using OpenChat 3.5 with reward model Starling-RM-7B-alpha.</li>
         <li><strong>TinyLlama:</strong> Compact 1.1B Llama model pre-trained on 3 trillion tokens.</li>
         <li><strong>OpenChat 3.5 1210:</strong> OpenChat model.</li>
+        
     </ul>
 </p>
 
